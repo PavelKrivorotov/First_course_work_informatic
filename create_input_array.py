@@ -19,7 +19,7 @@ def create_input_array(directory_txt_file):
 
 
 if __name__ == '__main__':
-    directory = 'D:/ГУАП_предметы/Информатика/lab_7/text_file.txt'
+    directory = 'D:/.../text_file.txt'
 
     input_dict = create_input_array(directory)
 
