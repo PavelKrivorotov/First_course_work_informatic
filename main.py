@@ -119,6 +119,6 @@ def main():
 
 
 if __name__ == '__main__':
-    # directory = 'D:/ГУАП_предметы/Информатика/lab_7/text_file.txt'
+    # directory = 'D:/.../text_file.txt'
 
     main()
